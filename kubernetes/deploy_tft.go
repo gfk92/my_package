@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func main() {
-	fmt.Println("I deploy application with Terraform .")
+func TerraformDeploy() {
+	fmt.Println("Terraform deployment !!! .")
 }
